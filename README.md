@@ -36,6 +36,8 @@ GIF created with [Giphy](https://giphy.com).
 
 Describe any challenges encountered while building the app.
 
+As this was my first time familiarizing myself with Swift on XCode and Github, navigating through this Prework challenge was an exciting learning experience, in which I had to endure a trial and error process to fulfill the funtionality requirements. 
+
 ## License
 
     Copyright [2021] [Skyler Basco]
