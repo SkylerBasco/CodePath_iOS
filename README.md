@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *QuickTips*
 
-**Name of your app** is a tip calculator application for iOS.
+**QuickTips** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Skyler Basco**
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
