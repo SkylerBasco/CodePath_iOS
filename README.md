@@ -36,7 +36,7 @@ GIF created with [Giphy](https://giphy.com).
 
 Describe any challenges encountered while building the app.
 
-As this was my first time familiarizing myself with Swift on XCode and Github, navigating through this Prework challenge was an exciting learning experience, in which I had to endure a trial and error process to fulfill the funtionality requirements. Throughout the process, the Prework's instructions were straightfoward and were helpful in guiding me through building the tip calculator. Gaining a foundational understanding of the overall user interface of Xcode before jumping in to the actual assignment was the lengthiest portion of the challenge; however, after understanding the basics, building the mobile app was an incredible journey.
+As this was my first time familiarizing myself with Swift on XCode and Github, navigating through this Prework challenge was an exciting learning experience, in which I had to endure a trial and error process to fulfill the funtionality requirements. Throughout the process, the Prework's instructions were straightfoward and helpful in guiding me through building the tip calculator. Gaining a foundational understanding of the overall user interface of Xcode before jumping in to the actual assignment was the lengthiest portion of the challenge; however, after understanding the basics, building the mobile app was an incredible journey.
 
 ## License
 
